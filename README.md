@@ -6,6 +6,8 @@ El sistema fue diseñado para la empresa Software FJ con el objetivo de gestiona
 
 Durante el desarrollo del proyecto se implementaron diferentes conceptos vistos en el curso, permitiendo construir una aplicación organizada, modular y funcional.
 
+Se aplicaron distintas compilaciones de código con base al trabajo dividido de cada uno de los integrantes.
+
 ## Funcionalidades implementadas
 
 - Registro de clientes
