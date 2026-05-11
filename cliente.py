@@ -41,7 +41,7 @@ class Cliente(Entidad):
         Args:
             nombre:    Nombre completo del cliente.
             email:     Correo electrónico válido.
-            telefono:  Número de teléfono (7-15 dígitos).
+            telefono:  Número telefonico (7-15 dígitos).
             empresa:   Empresa u organización del cliente (opcional).
 
         Raises:
