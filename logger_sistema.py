@@ -1,8 +1,8 @@
 """
 logger_sistema.py
 =================
-Módulo de registro de eventos y errores (logging) para Software FJ.
-Registra todos los eventos relevantes en un archivo de texto plano.
+Módulo de registro de eventos y errores para Software FJ.
+Registra todos los eventos relevantes en un archivo de texto.
 
 Autor: Equipo de desarrollo
 Curso: Programación 213023 - UNAD
