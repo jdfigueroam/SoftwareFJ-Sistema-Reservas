@@ -91,7 +91,7 @@ class Cliente(Entidad):
         valor = valor.strip().lower()
         if not self._REGEX_EMAIL.match(valor):
             raise ClienteInvalidoError(
-                f"El email '{valor}' no tiene un formato válido. "
+                f"El email '{valor}' Validar un formato. "
                 "Use el formato: usuario@dominio.com"
             )
         self.__email = valor
