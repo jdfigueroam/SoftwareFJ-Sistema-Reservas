@@ -37,7 +37,7 @@ class Entidad(ABC):
             ValueError: Si el nombre está vacío o es None.
         """
         if not nombre or not nombre.strip():
-            raise ValueError("El nombre de la entidad no puede estar vacío.")
+            raise ValueError("Llenar este campo de la entidad.")
 
         Entidad._contador_global += 1
         self.__id = Entidad._contador_global
